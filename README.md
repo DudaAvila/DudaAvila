@@ -1,16 +1,13 @@
 ## ❀ Hi everyone! ❀ 
 
-<!--
-**DudaAvila/DudaAvila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+♥︎ Computer engenier student in Puc-Rio 
 
-Here are some ideas to get you started:
+♥︎ Currently participating in the projet Twist puc-rio 
 
-- 🔭 Gosto de gatos
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: adoro croche e livros 
--->
+
+
+♥︎ How to reach me: mariaeduarda.dan.avila@gmail.com
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DudaAvila&layout=compact&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
